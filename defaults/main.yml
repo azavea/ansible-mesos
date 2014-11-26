@@ -1,5 +1,5 @@
 ---
-mesos_version: "0.20.1-1.0.ubuntu1204"
+mesos_version: "0.21.0-1.0.ubuntu1404"
 mesos_conf_dir: "/etc/mesos"
 mesos_leader: False
 
