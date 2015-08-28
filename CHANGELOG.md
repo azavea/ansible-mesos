@@ -1,3 +1,7 @@
+## 0.2.2
+
+- Use port `80` for retrieving APT repository key.
+
 ## 0.2.1
 
 - Remove hard reference to Java version
