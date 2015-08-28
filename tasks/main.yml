@@ -1,6 +1,6 @@
 ---
 - name: Configure Mesosphere APT key
-  apt_key: keyserver=keyserver.ubuntu.com
+  apt_key: keyserver=hkp://keyserver.ubuntu.com:80
            id=E56151BF
            state=present
 
